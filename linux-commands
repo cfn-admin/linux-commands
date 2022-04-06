@@ -1,0 +1,27 @@
+================
+Basic Linux commands
+================
+
+List directory content 
+ls
+
+make directory
+mkdir <directory name>
+
+remove directory
+rmdir <directory name>
+
+===============
+Working with compressed files
+===============
+gz files are examples of compressed files 
+
+To compress: 
+gzip <filename> 
+example: gzip secure.logs
+
+To uncompress:
+gunzip <filename> 
+example: 
+gunzip secure.logs.gz
+
