@@ -1,5 +1,5 @@
 Secure Installation of Linux
-===============================
+=============================
 
 First steps to secure a linux installation:
 
@@ -7,3 +7,15 @@ First steps to secure a linux installation:
 Create an admin account
 
 Block ports
+
+
+Install updates or a few things 
+
+Network security groups 
+
+Install AV?
+
+
+Set up logging. 
+
+
