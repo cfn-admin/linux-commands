@@ -1,7 +1,9 @@
 Secure Installation of Linux
-=========
+===============================
 
 First steps to secure a linux installation:
 
 
 Create an admin account
+
+Block ports
