@@ -2,6 +2,10 @@
 Basic Linux commands
 ================
 
+To update a distro - 
+sudo apt full-upgrade
+sudo apt dist-upgrade
+
 List directory content 
 ls
 
