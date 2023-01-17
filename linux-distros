@@ -2,6 +2,10 @@ KALI:
 -Red Team activity
 -Tools to perform penetration testing
 
+To update a distro - 
+sudo apt full-upgrade
+sudo apt dist-upgrade
+
 SECURITY ONION: 
 -This is useful for Blue Team activities. 
 
