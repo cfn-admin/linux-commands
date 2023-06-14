@@ -29,3 +29,8 @@ gunzip <filename>
 example: 
 gunzip secure.logs.gz
 
+===============
+Finding data in linix with grep
+===============
+
+grep command!
