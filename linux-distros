@@ -1,8 +1,8 @@
 KALI: 
--Red Team activity
--Tools to perform penetration testing
+--Red Team activity
+--Tools to perform penetration testing
 
-To update a distro - 
+To update a distro -- 
 sudo apt full-upgrade
 sudo apt dist-upgrade
 
